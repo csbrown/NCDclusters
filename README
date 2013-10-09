@@ -1,0 +1,1 @@
+This is a program to do unsupervised clustering of files using the NCD.  Takes a bunch of files and clusters them with a variant of k-means.
